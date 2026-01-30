@@ -1,4 +1,4 @@
-**Ported by @vxiiduu on GitHub! Original repo was able to be found here: https://github.com/vxiiduu/SnippingToolEx**
+**Ported by @vxiiduu on GitHub! The original repository was, at one point, able to be found here: https://github.com/vxiiduu/SnippingToolEx**
 
 "This Snipping Tool is from Windows 10 1507 (the RTM release)."
 
